@@ -2,6 +2,8 @@
 
 This repository contains a **powerful search tool (`search.php`)** that allows users to scan an entire **web directory**. To ensure security, access to the search tool is **password-protected**, requiring authentication before use. Additionally, search queries must be **at least 3 characters long** for valid results. 🔒  
 
+### Password - 1234
+
 ## 📁 Project Structure  
 
 Ensure all files are correctly placed in the **root directory** for proper functionality:  
